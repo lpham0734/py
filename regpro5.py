@@ -1,4 +1,4 @@
-<?python
+<?py
 import random
 from atexit import register
 from time import sleep
